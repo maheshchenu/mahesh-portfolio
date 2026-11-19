@@ -120,7 +120,7 @@ export default function Hero({ theme }) {
 
             {/* Download Resume */}
             <a
-              href="/maheshMernStack.pdf"
+              href="/maheshMernStackResume.pdf"
               download="Mahesh_Chenu_Resume.pdf"
               className={`rounded-full border border-violet-500/50 px-8 py-4 text-sm font-semibold text-violet-500 transition duration-300 hover:-translate-y-1 hover:bg-violet-600 hover:text-white ${
                 dark ? "bg-violet-500/10" : "bg-white/70"
